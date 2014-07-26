@@ -1,0 +1,32 @@
+{
+  "name": "ws",
+  "version": "0.0.0",
+  "description": "ejemplillo",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no hay test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teland/ws.git"
+  },
+  "keywords": [
+    "ejemplillo",
+    "heroku"
+  ],
+  "author": "teland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teland/ws/issues"
+  },
+  "homepage": "https://github.com/teland/ws",
+  "dependencies": {
+    "express": "^4.6.1",
+    "logfmt": "^1.1.2"
+  }
+  {
+   "engines": {
+    "node": "0.10.x"
+   }
+  }
+}
